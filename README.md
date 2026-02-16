@@ -32,9 +32,9 @@ Saya memadukan logika pemrograman dengan ketajaman analisis data:
 > * **Fitur:** Dashboard interaktif, deteksi *profit loss*, dan otomatisasi tombol Reset dengan VBA.
 > * **Hasil:** Memberikan insight tentang tren penjualan musiman dan performa produk per wilayah.
 
-### 🌐 **Web Development Projects**
-> *Laravel, PHP, MySQL, Bootstrap/Tailwind*
-> *(Sedang dalam proses upload / Sebutkan nama project web Anda disini, misal: Sistem Informasi Gudang, Website Profil, dll)*
+### 🌐 [**Event Organizer Website**](https://github.com/muhammadfadhil16/SwevelTiket)
+> *Laravel, PHP, MySQL, Tailwind*
+> *Sebuah proyek pembuatan sebuah website untuk event organizer*
 > * Membangun aplikasi web dinamis dengan arsitektur MVC yang rapi.
 > * Implementasi CRUD dan manajemen database yang efisien.
 
