@@ -26,9 +26,9 @@ Saya memadukan logika pemrograman dengan ketajaman analisis data:
 
 ## 📂 Apa yang Saya Kerjakan?
 
-### 🛒 **[Retail Store Analytics Dashboard](./RetailStore_Analytic_Project)**
+### 🛒 **(https://github.com/muhammadfadhil16/MuhammadFadhil_Portofolio_DataAnalysist)**
 > *Excel, VBA, Pivot Table, Slicer*
-> Sebuah proyek analisis data end-to-end untuk toko retail.
+> Sebuah repository dengan isi proyek saya dalam mengelola data dan menghasilkan sebuah insight.
 > * **Fitur:** Dashboard interaktif, deteksi *profit loss*, dan otomatisasi tombol Reset dengan VBA.
 > * **Hasil:** Memberikan insight tentang tren penjualan musiman dan performa produk per wilayah.
 
