@@ -34,14 +34,9 @@ Saya memadukan logika pemrograman dengan ketajaman analisis data:
 
 ### 🌐 [**Event Organizer Website**](https://github.com/muhammadfadhil16/SwevelTiket)
 > *Laravel, PHP, MySQL, Tailwind*
-> *Sebuah proyek pembuatan sebuah website untuk event organizer*
+> *Sebuah proyek pembuatan sebuah website untuk event organizer* 
 > * Membangun aplikasi web dinamis dengan arsitektur MVC yang rapi.
 > * Implementasi CRUD dan manajemen database yang efisien.
-
----
-
-## ⚡ Statistik GitHub Saya
-![Muhammad Fadhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical)
 
 ---
 
@@ -49,4 +44,4 @@ Saya memadukan logika pemrograman dengan ketajaman analisis data:
 Saya terbuka untuk kolaborasi proyek web development atau diskusi seputar analisis data.
 
 * 💼 **LinkedIn:** [(https://www.linkedin.com/in/muhammad-fadhil-86a88125b/)]
-* 📧 **Email:** [fadilglx1611@gmail.com]
+* 📧 **Email:** [mfadhil.works@gmail.com]
